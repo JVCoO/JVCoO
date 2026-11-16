@@ -1,4 +1,3 @@
-whoami
 $ whoami
 jonathan "jv" ramirez  -  software developer & tech educator · Chicago, IL
 
