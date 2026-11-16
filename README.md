@@ -28,28 +28,28 @@ NAME
 
 DESCRIPTION
 
-    Tech Facilitator @ i.c.stars
+   Tech Facilitator @ i.c.stars
 
-    Design and deliver hands-on technical curriculum covering
-    web development, Git & GitHub, APIs, databases, React,
-    and software engineering fundamentals.
+   Design and deliver hands-on technical curriculum covering
+   web development, Git & GitHub, APIs, databases, React,
+   and software engineering fundamentals.
 
-    Mentor interns through their first real-world projects
-    and client engagements.
+   Mentor interns through their first real-world projects
+   and client engagements.
 
-    Teach the way I wish I was taught:
-    build first, lecture last.
+   Teach the way I wish I was taught:
+   build first, lecture last.
 
-    Secretary, i.c.stars Alumni Association (iCAA)
+   Secretary, i.c.stars Alumni Association (iCAA)
 
-    Working to strengthen communication between alumni
-    and the active program while helping grow the community.
+   Working to strengthen communication between alumni
+   and the active program while helping grow the community.
 
-    Community Builder
+   Community Builder
 
-    Co-led a 100+ participant cybersecurity hackathon
-    combining learning, competition, and teamwork through
-    hands-on defensive security challenges.
+   Co-led a 100+ participant cybersecurity hackathon
+   combining learning, competition, and teamwork through
+   hands-on defensive security challenges.
 
 $ ls projects/
 
